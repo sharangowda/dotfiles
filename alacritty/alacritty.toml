@@ -1,0 +1,13 @@
+import = [
+  "/usr/lib/node_modules/alacritty-themes/themes/3024.dark.toml"
+]
+
+[font]
+size = 11
+
+  [font.normal]
+  family = "SFMono Nerd Font Mono"
+  style = "SemiBold"
+
+[window]
+opacity = 1
