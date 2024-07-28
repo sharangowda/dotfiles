@@ -1,7 +1,16 @@
 return {
   "EdenEast/nightfox.nvim",
   config = function()
-    vim.cmd.colorscheme "nightfox"
+    require('nightfox').setup({
+      options = {
+        styles = {
+          comments = "italic",
+          keywords = "bold",
+          types = "italic,bold",
+        }
+      }
+    })
+    vim.cmd.colorscheme "carbonfox"
   end
 
 }
