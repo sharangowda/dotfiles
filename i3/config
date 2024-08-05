@@ -134,7 +134,8 @@ bindsym $mod+shift+i exec ~/.config/system-ctl/suspend.sh
 bindsym $mod+shift+o exec ~/.config/system-ctl/shutdown.sh
 # bindsym $mod+shift+p exec betterlockscreen --lock
 
-bindsym $mod+shift+m exec firefox
+bindsym $mod+m exec firefox
+bindsym $mod+d exec nemo
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.

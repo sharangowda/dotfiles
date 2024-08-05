@@ -4,6 +4,7 @@ baloofileinformationrc
 /Code - OSS
 /create-next-app-nodejs
 /dconf
+/Docker Desktop
 dolphinrc
 /discord
 /Electron
@@ -21,6 +22,8 @@ QtProject.conf
 /screengrab
 /session
 /systemd
+/vlc
+/spotify
 trashrc
 /yay
 /zed
